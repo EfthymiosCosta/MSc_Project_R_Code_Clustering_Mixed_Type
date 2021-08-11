@@ -6,3 +6,5 @@ In this repository, you can find the R code used for the project "A benchmarking
 * Supervisors:
   * Dr. Ioanna Papatsouma (Imperial College London)
   * Dr. Angelos Markos (Democritus University of Thrace)
+
+## Description of files & R scripts
