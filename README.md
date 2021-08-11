@@ -4,5 +4,5 @@ In this repository, you can find the R code used for the project "A benchmarking
 
 * Author: Efthymios Costa
 * Supervisors:
-* * Dr. Ioanna Papatsouma (Imperial College London)
-* * Dr. Angelos Markos (Democritus University of Thrace)
+ * Dr. Ioanna Papatsouma (Imperial College London)
+ * Dr. Angelos Markos (Democritus University of Thrace)
